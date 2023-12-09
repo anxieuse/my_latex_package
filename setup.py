@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='my_latex_package',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     description='A small LaTeX table generation package',
     long_description=open('README.md').read(),
