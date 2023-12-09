@@ -1,2 +1,3 @@
-# my_latex_package
-Test latex package for pypi
+# My test latex package
+
+Some text here.
